@@ -1,0 +1,261 @@
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T13:40:19.229Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T13:40:19.232Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:13:40:24 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxU2Be HTTP/1.1' 404 3215","timestamp":"2017-09-13T13:40:24.443Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T13:40:25.086Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T13:42:06.168Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T13:42:06.171Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:13:42:07 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxURK_ HTTP/1.1' 404 3215","timestamp":"2017-09-13T13:42:07.447Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T13:42:08.881Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T13:44:34.646Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T13:44:34.649Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:13:44:37 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxU_ym HTTP/1.1' 404 3215","timestamp":"2017-09-13T13:44:37.449Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T13:44:38.040Z"}
+{"date":"Wed Sep 13 2017 10:48:06 GMT-0300 (BRT)","process":{"pid":11438,"uid":1000,"gid":1000,"cwd":"/home/daniloanobre/Development/personal/nodejs/example-api","execPath":"/home/daniloanobre/.nvm/versions/node/v8.2.1/bin/node","version":"v8.2.1","argv":["/home/daniloanobre/.nvm/versions/node/v8.2.1/bin/node","/home/daniloanobre/Development/personal/nodejs/example-api/bin/www"],"memoryUsage":{"rss":61747200,"heapTotal":35663872,"heapUsed":23194232,"external":18157081}},"os":{"loadavg":[0.861328125,0.90771484375,0.79345703125],"uptime":321416},"trace":[{"column":5,"file":"/home/daniloanobre/Development/personal/nodejs/example-api/bin/www","function":null,"line":16,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":569,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":580,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":503,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":466,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":458,"method":"_load","native":false},{"column":10,"file":"module.js","function":"Module.runMain","line":605,"method":"runMain","native":false},{"column":16,"file":"bootstrap_node.js","function":"startup","line":158,"method":null,"native":false},{"column":3,"file":"bootstrap_node.js","function":null,"line":575,"method":null,"native":false}],"stack":["TypeError: app.set is not a function","    at Object.<anonymous> (/home/daniloanobre/Development/personal/nodejs/example-api/bin/www:16:5)","    at Module._compile (module.js:569:30)","    at Object.Module._extensions..js (module.js:580:10)","    at Module.load (module.js:503:32)","    at tryModuleLoad (module.js:466:12)","    at Function.Module._load (module.js:458:3)","    at Function.Module.runMain (module.js:605:10)","    at startup (bootstrap_node.js:158:16)","    at bootstrap_node.js:575:3"],"level":"error","message":"uncaughtException: app.set is not a function","timestamp":"2017-09-13T13:48:06.648Z"}
+{"date":"Wed Sep 13 2017 10:49:01 GMT-0300 (BRT)","process":{"pid":11540,"uid":1000,"gid":1000,"cwd":"/home/daniloanobre/Development/personal/nodejs/example-api","execPath":"/home/daniloanobre/.nvm/versions/node/v8.2.1/bin/node","version":"v8.2.1","argv":["/home/daniloanobre/.nvm/versions/node/v8.2.1/bin/node","/home/daniloanobre/Development/personal/nodejs/example-api/bin/www"],"memoryUsage":{"rss":61435904,"heapTotal":35663872,"heapUsed":23544960,"external":18186459}},"os":{"loadavg":[0.673828125,0.833984375,0.7734375],"uptime":321472},"trace":[{"column":5,"file":"/home/daniloanobre/Development/personal/nodejs/example-api/bin/www","function":null,"line":16,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":569,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":580,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":503,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":466,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":458,"method":"_load","native":false},{"column":10,"file":"module.js","function":"Module.runMain","line":605,"method":"runMain","native":false},{"column":16,"file":"bootstrap_node.js","function":"startup","line":158,"method":null,"native":false},{"column":3,"file":"bootstrap_node.js","function":null,"line":575,"method":null,"native":false}],"stack":["TypeError: app.set is not a function","    at Object.<anonymous> (/home/daniloanobre/Development/personal/nodejs/example-api/bin/www:16:5)","    at Module._compile (module.js:569:30)","    at Object.Module._extensions..js (module.js:580:10)","    at Module.load (module.js:503:32)","    at tryModuleLoad (module.js:466:12)","    at Function.Module._load (module.js:458:3)","    at Function.Module.runMain (module.js:605:10)","    at startup (bootstrap_node.js:158:16)","    at bootstrap_node.js:575:3"],"level":"error","message":"uncaughtException: app.set is not a function","timestamp":"2017-09-13T13:49:01.900Z"}
+{"date":"Wed Sep 13 2017 10:49:10 GMT-0300 (BRT)","process":{"pid":11581,"uid":1000,"gid":1000,"cwd":"/home/daniloanobre/Development/personal/nodejs/example-api","execPath":"/home/daniloanobre/.nvm/versions/node/v8.2.1/bin/node","version":"v8.2.1","argv":["/home/daniloanobre/.nvm/versions/node/v8.2.1/bin/node","/home/daniloanobre/Development/personal/nodejs/example-api/bin/www"],"memoryUsage":{"rss":59396096,"heapTotal":35663872,"heapUsed":23635144,"external":18186459}},"os":{"loadavg":[0.650390625,0.8232421875,0.7705078125],"uptime":321480},"trace":[{"column":5,"file":"/home/daniloanobre/Development/personal/nodejs/example-api/bin/www","function":null,"line":16,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":569,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":580,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":503,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":466,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":458,"method":"_load","native":false},{"column":10,"file":"module.js","function":"Module.runMain","line":605,"method":"runMain","native":false},{"column":16,"file":"bootstrap_node.js","function":"startup","line":158,"method":null,"native":false},{"column":3,"file":"bootstrap_node.js","function":null,"line":575,"method":null,"native":false}],"stack":["TypeError: app.set is not a function","    at Object.<anonymous> (/home/daniloanobre/Development/personal/nodejs/example-api/bin/www:16:5)","    at Module._compile (module.js:569:30)","    at Object.Module._extensions..js (module.js:580:10)","    at Module.load (module.js:503:32)","    at tryModuleLoad (module.js:466:12)","    at Function.Module._load (module.js:458:3)","    at Function.Module.runMain (module.js:605:10)","    at startup (bootstrap_node.js:158:16)","    at bootstrap_node.js:575:3"],"level":"error","message":"uncaughtException: app.set is not a function","timestamp":"2017-09-13T13:49:10.407Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T13:49:23.779Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T13:49:23.782Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T13:49:25.161Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T13:49:28.309Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T13:49:28.312Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:13:49:29 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxW7FH HTTP/1.1' 404 3215","timestamp":"2017-09-13T13:49:29.449Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T13:49:30.375Z"}
+{"date":"Wed Sep 13 2017 10:51:14 GMT-0300 (BRT)","process":{"pid":11831,"uid":1000,"gid":1000,"cwd":"/home/daniloanobre/Development/personal/nodejs/example-api","execPath":"/home/daniloanobre/.nvm/versions/node/v8.2.1/bin/node","version":"v8.2.1","argv":["/home/daniloanobre/.nvm/versions/node/v8.2.1/bin/node","/home/daniloanobre/Development/personal/nodejs/example-api/bin/www"],"memoryUsage":{"rss":41414656,"heapTotal":19410944,"heapUsed":11730992,"external":41428}},"os":{"loadavg":[0.88330078125,0.837890625,0.7783203125],"uptime":321605},"trace":[{"column":10,"file":"vm.js","function":"createScript","line":74,"method":null,"native":false},{"column":10,"file":"vm.js","function":"Object.runInThisContext","line":116,"method":"runInThisContext","native":false},{"column":28,"file":"module.js","function":"Module._compile","line":533,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":580,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":503,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":466,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":458,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":513,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false},{"column":22,"file":"/home/daniloanobre/Development/personal/nodejs/example-api/app.js","function":null,"line":11,"method":null,"native":false}],"stack":["/home/daniloanobre/Development/personal/nodejs/example-api/helpers/errors.js:8","/ Required utils","^","","SyntaxError: Invalid regular expression: missing /","    at createScript (vm.js:74:10)","    at Object.runInThisContext (vm.js:116:10)","    at Module._compile (module.js:533:28)","    at Object.Module._extensions..js (module.js:580:10)","    at Module.load (module.js:503:32)","    at tryModuleLoad (module.js:466:12)","    at Function.Module._load (module.js:458:3)","    at Module.require (module.js:513:17)","    at require (internal/module.js:11:18)","    at Object.<anonymous> (/home/daniloanobre/Development/personal/nodejs/example-api/app.js:11:22)"],"level":"error","message":"uncaughtException: Invalid regular expression: missing /","timestamp":"2017-09-13T13:51:14.997Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T13:52:13.867Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T13:52:13.871Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:13:52:16 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxWm0e HTTP/1.1' 404 3004","timestamp":"2017-09-13T13:52:16.449Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T13:52:16.966Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T13:53:06.315Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T13:53:06.318Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:13:53:07 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxWyTX HTTP/1.1' 404 3004","timestamp":"2017-09-13T13:53:07.450Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T13:53:08.677Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T13:54:30.117Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T13:54:30.120Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:13:54:35 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxXHyV HTTP/1.1' 404 3004","timestamp":"2017-09-13T13:54:35.443Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T13:54:36.221Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T13:55:10.390Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T13:55:10.393Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:13:55:15 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxXRjV HTTP/1.1' 500 3190","timestamp":"2017-09-13T13:55:15.444Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T13:55:16.317Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T13:55:35.402Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T13:55:35.405Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:13:55:36 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxXWrd HTTP/1.1' 404 3004","timestamp":"2017-09-13T13:55:36.450Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T13:55:37.637Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T13:57:36.304Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T13:57:36.307Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:13:57:37 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxX-OF HTTP/1.1' 404 3004","timestamp":"2017-09-13T13:57:37.444Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T13:57:38.431Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T13:59:15.681Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T13:59:15.684Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:13:59:17 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxYMol HTTP/1.1' 404 3004","timestamp":"2017-09-13T13:59:17.443Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T13:59:18.325Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T13:59:26.825Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T13:59:26.829Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:13:59:28 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxYPUe HTTP/1.1' 404 2956","timestamp":"2017-09-13T13:59:28.443Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T13:59:29.324Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T14:00:36.821Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T14:00:36.824Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:00:37 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxYgKm HTTP/1.1' 404 3004","timestamp":"2017-09-13T14:00:37.441Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T14:00:38.406Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T14:01:09.524Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T14:01:09.527Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:01:12 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxYotd HTTP/1.1' 404 3004","timestamp":"2017-09-13T14:01:12.444Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T14:01:13.261Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T14:04:31.383Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T14:04:31.386Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:04:31 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxZZT0 HTTP/1.1' 404 3004","timestamp":"2017-09-13T14:04:31.447Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T14:04:34.591Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T14:06:28.132Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T14:06:28.135Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:06:29 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxa0Gm HTTP/1.1' 404 3215","timestamp":"2017-09-13T14:06:29.448Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T14:06:30.502Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T14:07:46.508Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T14:07:46.512Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:07:47 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxaJJV HTTP/1.1' 404 3193","timestamp":"2017-09-13T14:07:47.445Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:07:49 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxaJom HTTP/1.1' 404 3193","timestamp":"2017-09-13T14:07:49.430Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T14:07:50.121Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T14:08:48.665Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T14:08:48.668Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:08:52 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxaZB9 HTTP/1.1' 404 3215","timestamp":"2017-09-13T14:08:52.449Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T14:08:53.272Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T14:10:12.141Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T14:10:12.144Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:10:18 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxauAu HTTP/1.1' 404 3215","timestamp":"2017-09-13T14:10:18.445Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T14:10:19.226Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T14:12:19.365Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T14:12:19.368Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:12:19 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxbLjW HTTP/1.1' 404 3215","timestamp":"2017-09-13T14:12:19.452Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:12:21 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxbMCl HTTP/1.1' 404 3215","timestamp":"2017-09-13T14:12:21.430Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T14:12:22.346Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T14:14:09.236Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T14:14:09.239Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T14:14:10.283Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T14:14:20.568Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T14:14:20.571Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:14:27 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxbqzW HTTP/1.1' 404 3215","timestamp":"2017-09-13T14:14:27.443Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T14:14:28.539Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T14:15:21.097Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T14:15:21.101Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:15:26 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxc3NN HTTP/1.1' 404 3215","timestamp":"2017-09-13T14:15:26.443Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T14:15:27.220Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T14:15:51.983Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T14:15:51.986Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:15:57 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxcAxn HTTP/1.1' 500 3211","timestamp":"2017-09-13T14:15:57.442Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T14:15:58.461Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T14:16:09.548Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T14:16:09.551Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:16:11 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxcEMV HTTP/1.1' 404 149","timestamp":"2017-09-13T14:16:11.447Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:16:13 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxcErm HTTP/1.1' 404 149","timestamp":"2017-09-13T14:16:13.429Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:16:19 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxcGJX HTTP/1.1' 404 149","timestamp":"2017-09-13T14:16:19.428Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T14:16:20.341Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T14:18:30.559Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T14:18:30.563Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:18:32 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxcmne HTTP/1.1' 404 3215","timestamp":"2017-09-13T14:18:32.448Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:18:34 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxcnGv HTTP/1.1' 404 3215","timestamp":"2017-09-13T14:18:34.428Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:18:36 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxcnm8 HTTP/1.1' 404 3215","timestamp":"2017-09-13T14:18:36.427Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T14:18:38.174Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T14:21:00.685Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T14:21:00.688Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:14:21:02 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxdLPN HTTP/1.1' 404 3215","timestamp":"2017-09-13T14:21:02.451Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T14:21:03.163Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:14:28.999Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:14:29.002Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:14:30 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxpacN HTTP/1.1' 404 2867","timestamp":"2017-09-13T15:14:30.441Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:14:37 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxpcJm HTTP/1.1' 404 2867","timestamp":"2017-09-13T15:14:37.432Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:14:38.602Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:14:58.533Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:14:58.536Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:14:59 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxphhV HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:14:59.453Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:15:00.651Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:15:23.193Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:15:23.196Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:15:29 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxpp0G HTTP/1.1' 404 3004","timestamp":"2017-09-13T15:15:29.443Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:15:30.323Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:15:46.552Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:15:46.555Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:15:49 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxptun HTTP/1.1' 500 3216","timestamp":"2017-09-13T15:15:49.450Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:15:50.204Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:15:59.706Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:15:59.710Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:16:05 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxpxom HTTP/1.1' 500 3211","timestamp":"2017-09-13T15:16:05.447Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:16:06.227Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:16:15.830Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:16:15.833Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:16:18 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxp-zt HTTP/1.1' 404 149","timestamp":"2017-09-13T15:16:18.448Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:16:25 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxq0hG HTTP/1.1' 404 149","timestamp":"2017-09-13T15:16:25.430Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:16:30.766Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:16:30.769Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:16:32 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxq2Oe HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:16:32.452Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:16:38 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxq3sO HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:16:38.431Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:16:45 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxq5Zm HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:16:45.429Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:16:47 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxq62_ HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:16:47.429Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:16:53 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxq7Wm HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:16:53.433Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:16:55 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxq800 HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:16:55.431Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:16:57 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxq8VH HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:16:57.430Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:16:59 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxq8-V HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:16:59.433Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:17:06 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxqAht HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:17:06.431Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:17:13 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxqCPG HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:17:13.428Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:17:15 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxqCuW HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:17:15.429Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:17:17 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxqDNm HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:17:17.428Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:17:19 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxqDs_ HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:17:19.429Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:17:21 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxqEMF HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:17:21.432Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:17:23 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxqErW HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:17:23.428Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:17:29 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxqGJH HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:17:29.430Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:17:31 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxqGoX HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:17:31.429Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:17:33 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxqHHp HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:17:33.434Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:17:35.683Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:17:38.476Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:17:38.480Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:17:40 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxqI_7 HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:17:40.452Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:17:41.732Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:19:35.398Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:19:35.401Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:19:36 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxqlJf HTTP/1.1' 500 2617","timestamp":"2017-09-13T15:19:36.443Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:19:38.269Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:20:02.904Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:20:02.907Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:20:05 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxqsOl HTTP/1.1' 404 3193","timestamp":"2017-09-13T15:20:05.444Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:20:08.931Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:22:27.040Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:22:27.043Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:22:31 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxrQ1_ HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:22:31.449Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:22:32.099Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:24:00.429Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:24:00.434Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:24:02 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxrmFu HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:24:02.448Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:24:06.220Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:24:34.623Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:24:34.626Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:24:35 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxruJV HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:24:35.453Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:24:36.180Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:25:00.110Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:25:00.113Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:25:04 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxr_Oe HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:25:04.452Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:25:06 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxr_tu HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:25:06.430Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:25:07.099Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:25:36.404Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:25:36.407Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:25:38 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxs7ht HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:25:38.452Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:25:39.125Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:26:54.067Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:26:54.070Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:27:00 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxsRj8 HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:27:00.444Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:27:01.324Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:27:35.692Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:27:35.695Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:27:37 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxsalH HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:27:37.452Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:27:43 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxscD1 HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:27:43.431Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:27:44.947Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:27:47.544Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:27:47.548Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:27:50 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxsdwO HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:27:50.450Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:27:51.195Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:28:09.336Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:28:09.339Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:28:14 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxsjnO HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:28:14.447Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:28:15.044Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:28:54.111Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:28:54.114Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:29:00 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxsv07 HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:29:00.444Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:29:01.116Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:29:21.536Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:29:21.539Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:29:26 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxs_MP HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:29:26.452Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:29:27.499Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:30:57.067Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:30:57.071Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:30:58 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxtLpu HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:30:58.450Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:30:59.372Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:31:22.715Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:31:22.718Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:31:23 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxtRwV HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:31:23.459Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:31:24.803Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:36:26.209Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:36:26.212Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:36:27 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxuc8W HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:36:27.448Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:36:28.516Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:37:43.021Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:37:43.024Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:37:44 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxuuxf HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:37:44.450Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:37:45.500Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:40:42.719Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:40:42.722Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:40:44 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxvau7 HTTP/1.1' 404 149","timestamp":"2017-09-13T15:40:44.445Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:40:51 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvxvcbV HTTP/1.1' 404 149","timestamp":"2017-09-13T15:40:51.432Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:40:52.556Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:45:01.275Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:45:01.278Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:45:03 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxwa6_ HTTP/1.1' 404 149","timestamp":"2017-09-13T15:45:03.447Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:45:06.564Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T15:45:17.175Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T15:45:17.178Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:15:45:23 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=Lvxwe_V HTTP/1.1' 404 3215","timestamp":"2017-09-13T15:45:23.445Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T15:45:24.243Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T17:27:17.514Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T17:27:17.517Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:17:27:20 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvyH-Pf HTTP/1.1' 404 3215","timestamp":"2017-09-13T17:27:20.448Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T17:27:21.079Z"}
+{"level":"info","message":"MongoDB: Connection established!","timestamp":"2017-09-13T17:28:41.843Z"}
+{"level":"info","message":"MongoDB: Connection successful!","timestamp":"2017-09-13T17:28:41.846Z"}
+{"level":"info","message":"::1 - - [13/Sep/2017:17:28:47 +0000] 'GET /socket.io/?EIO=3&transport=polling&t=LvyIJf0 HTTP/1.1' 404 3215","timestamp":"2017-09-13T17:28:47.446Z"}
+{"level":"warn","message":"MongoDB: Lost connection!","timestamp":"2017-09-13T17:28:48.478Z"}

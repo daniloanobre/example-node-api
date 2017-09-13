@@ -1,0 +1,85 @@
+{
+  "Lang": "English - US",
+  "Access": {
+    "Unauthorized": "Access Denied - To access this resource is required permission: %s"
+  },
+  "Error": {
+    "Duplicate": "The object already exists and can not be duplicated",
+    "NotFound": "The requested resource was not found",
+    "ObjectType": "The object type is not valid",
+    "BadRequest": "The requested resource is not valid",
+    "Unprocessable": "During the request something went wrong",
+    "NotAuthorized": "This request is not authorized",
+    "Database": "A problem was encountered while accessing the database",
+    "ServiceUnavailable": "Some service is currently unavailable and the request could not continue",
+    "BusinessRule": "Due to business rule the request could not continue"
+  },
+  "Field": {
+    "NotEmpty": "The field %s is required and can not be empty",
+    "MinLength": "The field %s must be longer than %s characters"
+  },
+  "User": {
+    "NotFoundWithParams": "The user was not found",
+    "NotFound": "The user %s was not found",
+    "Duplicate": "The user already exists",
+    "HasSameRole": "The user already has this role",
+    "PasswordFail": "The password you entered is not valid",
+    "Protected": "This user can not be changed or removed",
+    "UsernameProtected": "This user's username can not be modified",
+    "ResetPasswordSuccess": "Send the token %s to the Assista support team and follow the instructions to recover your password",
+    "ResetPasswordExpires": "Request password recovery to generate a new access token",
+    "NewPasswordSuccess": "The %s's password successfully updated",
+    "ResetPasswordFail": "The token entered is not valid",
+    "Unique": "This %s already exists, enter another value",
+    "Field": {
+      "Email": {
+        "Fail": "The email field is not valid",
+        "PatternFail": "The email field is not following an acceptable standard"
+      }
+    },
+    "Type": {
+      "Admin": "The admin user can not be removed"
+    },
+    "Deleted": "User.Deleted"
+  },
+  "Task": {
+    "NotFoundWithParams": "The task was not found",
+    "NotFound": "The task %s was not found",
+    "Duplicate": "The task already exists",
+    "HasSameRole": "The task already has this role",
+    "PasswordFail": "The password you entered is not valid",
+    "Protected": "This task can not be changed or removed",
+    "UsernameProtected": "This task's username can not be modified",
+    "ResetPasswordSuccess": "Send the token %s to the Assista support team and follow the instructions to recover your password",
+    "ResetPasswordExpires": "Request password recovery to generate a new access token",
+    "NewPasswordSuccess": "The %s's password successfully updated",
+    "ResetPasswordFail": "The token entered is not valid",
+    "Unique": "This %s already exists, enter another value",
+    "Field": {
+      "Email": {
+        "Fail": "The email field is not valid",
+        "PatternFail": "The email field is not following an acceptable standard"
+      }
+    },
+    "Type": {
+      "Admin": "The admin user can not be removed"
+    },
+    "Deleted": "User.Deleted"
+  },
+  "Role": {
+    "NotFound": {
+      "One": "The role {{name}} was not found",
+      "Other": "[0] No role was found|[2,[ The roles {{name}} were not found"
+    },
+    "BusinessRuleFail": "Sorry, this profile can not be changed or removed"
+  },
+  "Configuration": {
+    "NotFound": "The configuration was not found"
+  },
+  "Movie": {
+    "NotFound": "The movie was not found"
+  },
+  "MessageQueueServer": {
+    "Unavailable": "Connection to mediablock was not performed"
+  }
+}

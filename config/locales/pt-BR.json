@@ -1,0 +1,61 @@
+{
+  "Lang": "Português - BR",
+  "Access": {
+    "Unauthorized": "Acesso Negado - Para acessar este recurso é necessária permissão: %s"
+  },
+  "Error": {
+    "Duplicate": "O objeto já existe e não pode ser duplicado",
+    "NotFound": "O recurso solicitado não foi encontrado",
+    "ObjectType": "O tipo do objeto não é válido",
+    "BadRequest": "A requisição solicitada não é válida",
+    "Unprocessable": "Durante a requisição algo deu errado",
+    "NotAuthorized": "Essa requisição não está autorizada",
+    "Database": "Um problema foi detectado durante o acesso ao banco de dados",
+    "ServiceUnavailable": "Algum serviço não está disponível no momento e a requisição não pôde continuar",
+    "BusinessRule": "Devido a regra de negócio a solicitação não pôde continuar"
+  },
+  "Field": {
+    "NotEmpty": "O campo %s é necessário e não pode ser vazio",
+    "MinLength": "O campo %s deve ter mais que %s caracteres"
+  },
+  "User": {
+    "NotFoundWithParams": "O usuário não foi encontrado",
+    "NotFound": "O usuário %s não foi encontrado",
+    "Duplicate": "O usuário já existe",
+    "HasSameRole": "O usuário já possui este perfil",
+    "PasswordFail": "A senha informada não é válida",
+    "Protected": "Este usuário não pode ser alterado ou removido",
+    "UsernameProtected": "O username deste usuário não pode ser modificado",
+    "ResetPasswordSuccess": "Envie o token %s para a equipe de suporte da Assista e siga as instruções para recuperar sua senha",
+    "ResetPasswordExpires": "Solicite a recuperação de senha para gerar um novo token de acesso",
+    "NewPasswordSuccess": "A senha de %s foi atualizada com sucesso",
+    "ResetPasswordFail": "O token informado não é válido",
+    "Unique": "Este %s já existe, entre com outro valor",
+    "Field": {
+      "Email": {
+        "Fail": "O campo email não é válido",
+        "PatternFail": "O campo email não está seguindo um padrão aceitável"
+      }
+    },
+    "Type": {
+      "Admin": "O usuário admin não pode ser removido"
+    },
+    "Deleted": "User.Deleted"
+  },
+  "Role": {
+    "NotFound": {
+      "One": "O perfil {{name}} não foi encontrado",
+      "Other": "[0] Nenhum perfil foi encontrado|[2,[ Os perfis {{name}} não foram encontrados"
+    },
+    "BusinessRuleFail": "Desculpe, este perfil não pode ser alterado ou removido"
+  },
+  "Configuration": {
+    "NotFound": "A configuração não foi encontrada"
+  },
+  "Movie": {
+    "NotFound": "O filme não foi encontrado"
+  },
+  "MessageQueueServer": {
+    "Unavailable": "A conexão com o mediablock não foi realizada"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "example-api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "lint": "eslint '**/*.js'",
+    "lint:fix": "eslint '**/*.js' --fix",
+    "db:seed": "find ./seeds/ -regex '.*/[^/]*.json' | xargs -L 1 mongoimport --quiet --mode upsert --db example-api --file",
+    "db:drop": "find ./seeds/ -regex '.*/[^/]*.json' | xargs -L 1 mongoimport --quiet --drop --db example-api --file"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "mongoose": "^4.11.9",
+    "morgan": "~1.8.1",
+    "pug": "~2.0.0-beta11",
+    "serve-favicon": "~2.4.2",
+    "winston": "^2.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.5.0",
+    "eslint-config-airbnb-base": "^11.3.2",
+    "eslint-plugin-import": "^2.7.0",
+    "i18n": "^0.8.3"
+  }
+}
